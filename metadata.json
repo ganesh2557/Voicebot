@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Voice Bot",
+  "description": "A high-performance real-time voice assistant powered by Gemini 2.5 Flash Native Audio. Features low-latency conversation, audio visualization, and live transcriptions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
